@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\bin\Debug\AlunoAprovadoOuReprovado.exe.config
+C:\Users\Usuario\source\repos\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\bin\Debug\AlunoAprovadoOuReprovado.exe
+C:\Users\Usuario\source\repos\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\bin\Debug\AlunoAprovadoOuReprovado.pdb
+C:\Users\Usuario\source\repos\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\obj\Debug\AlunoAprovadoOuReprovado.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\obj\Debug\AlunoAprovadoOuReprovado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\obj\Debug\AlunoAprovadoOuReprovado.Form1.resources
+C:\Users\Usuario\source\repos\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\obj\Debug\AlunoAprovadoOuReprovado.Properties.Resources.resources
+C:\Users\Usuario\source\repos\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\obj\Debug\AlunoAprovadoOuReprovado.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\obj\Debug\AlunoAprovadoOuReprovado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\obj\Debug\AlunoAprovadoOuReprovado.exe
+C:\Users\Usuario\source\repos\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\obj\Debug\AlunoAprovadoOuReprovado.pdb
